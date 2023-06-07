@@ -4,7 +4,7 @@
 Swim> is an assetto corsa network started by wheres981.
 
 ## 🦹🏿 Who?
-Swim> is run and maintained by whers981 and Romedius. Want to speak with us? Reach out on [discord](discord.gg/swim-ac)
+Swim> is run and maintained by wheres981 and Romedius. Want to speak with us? Reach out on [discord](discord.gg/swim-ac)
 
 ## 🧾 Details on the servers
 Our servers tend to use more realistic car models than competitors and reward for consistency and synergy instead of speed. Players running our cutup script are rewarded for driving along with other players, which creates a unique atmosphere. Currently, the cutup script is only available on our paid servers, and we run the following maps:
