@@ -10,7 +10,7 @@ Swim> is run and maintained by wheres981 and Romedius. Want to speak with us? Re
 discord.gg/swimserver
 
 ## 🧾 Details on the servers
-Our servers tend to use more realistic car models than competitors and reward for consistency and synergy instead of speed. Players running our cutup script are rewarded for driving along with other players, which creates a unique atmosphere. Currently, the cutup script is only available on our paid servers, and we run the following maps:
+Our servers tend to use more realistic car models than competitors and reward for consistency and synergy instead of speed. Players running our cutup script are rewarded for driving along with other players, which creates a unique atmosphere. Currently, the cutup script is available on all servers, but doesn't save your highscore because changes are still being made. Here are the maps we tend to run, more are on the way:
 - SRP (Shutoku Revival Project)
 - FDR (Franklin D. Roosevelt East River Drive) [Patreon Map](https://www.patreon.com/andrepradiktha/posts)
 - JRP (Jackie Robinson Parkway) [Patreon Map](https://www.patreon.com/andrepradiktha/posts)
